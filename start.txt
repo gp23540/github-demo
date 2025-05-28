@@ -2,4 +2,8 @@ Test Git Quick Start demo
 
 This is some new text
 
-This is some change, made by Erick ; )
+This is some change, made by Erick ;)
+
+
+
+And this is changes made through git commands, by Erick
