@@ -1,3 +1,5 @@
 Test Git Quick Start demo
 
 This is some new text
+
+This is some change, made by Erick ; )
